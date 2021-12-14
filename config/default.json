@@ -1,0 +1,11 @@
+{
+  "connection": "amqp://localhost:5672",
+  "mailer": {
+    "host": "smtp.mailtrap.io",
+    "port": 2525,
+    "auth": {
+      "user": "",
+      "pass": ""
+    }
+  }
+}
